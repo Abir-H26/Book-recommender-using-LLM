@@ -7,6 +7,9 @@ emotion extraction.
 
 ---
 
+## Demo
+![Demo](demo_LLM_book_recommender.gif)
+
 ## What it does
 
 - Takes a natural language description of the book you are looking for
