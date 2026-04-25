@@ -11,7 +11,7 @@ emotion extraction.
 
 Click on the image below to watch the demo:
 
-[![Watch the demo](demo.gif)](https://drive.google.com/drive/folders/1orAXfGfcJaH4Xtu62jU-vyDcyT8uRTUo)
+[![Watch the demo](demo_LLM_book_recommender.gif)](https://drive.google.com/drive/folders/1orAXfGfcJaH4Xtu62jU-vyDcyT8uRTUo)
 
 ## What it does
 
